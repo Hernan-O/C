@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1662570758 source:c:\users\felip\desktop\programacion y lab 2\tp 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1663174061 source:c:\users\felip\desktop\programacion y lab 2\tp 4 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreriaListas.h"
+	"libreriaListas.c"
+
+1662664252 c:\users\felip\desktop\programacion y lab 2\tp 4 1\librerialistas.h
+
+1662670207 c:\users\felip\desktop\programacion y lab 2\tp 4 1\librerialistas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreriaListas.h"
+
+1663272097 source:c:\users\felip\desktop\programacion y lab 2\tp's\tp 4 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreriaListas.h"
+	"libreriaListas.c"
+
+1662664252 c:\users\felip\desktop\programacion y lab 2\tp's\tp 4 1\librerialistas.h
+
+1663272371 c:\users\felip\desktop\programacion y lab 2\tp's\tp 4 1\librerialistas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreriaListas.h"
+
